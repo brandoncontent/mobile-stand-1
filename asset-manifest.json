@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mobile-stand-1/static/css/main.f26d96e2.css",
-    "main.js": "/mobile-stand-1/static/js/main.4301d14e.js",
+    "main.css": "/mobile-stand-1/static/css/main.a15e0eb5.css",
+    "main.js": "/mobile-stand-1/static/js/main.e953588d.js",
     "static/js/787.05b6661a.chunk.js": "/mobile-stand-1/static/js/787.05b6661a.chunk.js",
     "static/media/stoisko_NUTRICIA.png": "/mobile-stand-1/static/media/stoisko_NUTRICIA.2e4f586a4f7ceeb1374d.png",
     "static/media/ulotka.jpg": "/mobile-stand-1/static/media/ulotka.e0fdca951f7b895064dd.jpg",
@@ -9,12 +9,12 @@
     "static/media/NUTRICIA-plakat-1.jpg": "/mobile-stand-1/static/media/NUTRICIA-plakat-1.bf7abdc2a2031155c01f.jpg",
     "static/media/NUTRICIA-plakat-2.jpg": "/mobile-stand-1/static/media/NUTRICIA-plakat-2.82fac9b572bd48d18f5d.jpg",
     "index.html": "/mobile-stand-1/index.html",
-    "main.f26d96e2.css.map": "/mobile-stand-1/static/css/main.f26d96e2.css.map",
-    "main.4301d14e.js.map": "/mobile-stand-1/static/js/main.4301d14e.js.map",
+    "main.a15e0eb5.css.map": "/mobile-stand-1/static/css/main.a15e0eb5.css.map",
+    "main.e953588d.js.map": "/mobile-stand-1/static/js/main.e953588d.js.map",
     "787.05b6661a.chunk.js.map": "/mobile-stand-1/static/js/787.05b6661a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f26d96e2.css",
-    "static/js/main.4301d14e.js"
+    "static/css/main.a15e0eb5.css",
+    "static/js/main.e953588d.js"
   ]
 }
